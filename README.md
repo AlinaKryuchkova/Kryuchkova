@@ -1,1 +1,1 @@
-# Bali.main
+Здесь сайт, который сделан на курсе в Web Hero School
